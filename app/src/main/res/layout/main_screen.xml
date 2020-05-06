@@ -12,7 +12,7 @@
         android:layout_marginStart="176dp"
         android:layout_marginLeft="176dp"
         android:layout_marginTop="335dp"
-        android:text="Main"
+        android:text="MainScreen"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
